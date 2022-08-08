@@ -114,4 +114,4 @@ ORDER BY last_name, first_name;
 -- выведем первые 15 записей
 SELECT title, length, rental_rate FROM film
 ORDER BY length DESC, rental_rate
-LIMIT 5;
+LIMIT 15;
