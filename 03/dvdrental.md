@@ -4,7 +4,7 @@
 
 Скачать SQL-файлы для ее локальной установки можно здесь:
 
-https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
+[dvdrental.zip](./dvdrental.zip)
 
 Далее необходимо:
 
